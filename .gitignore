@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*.venv
+*.env
+
+# TensorFlow and Keras model checkpoints and logs
+*.h5
+*.ckpt
+*.pb
+*.index
+*.data-00000-of-00001
+checkpoints/
+logs/
+
+# Temporary files and directories for Jupyter Notebook and matplotlib
+.ipynb_checkpoints
+*.png
+*.svg
+*.pdf
+
+# tkinter-specific cache (if any are generated)
+*.tcl
+*.tclo
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# User settings and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo

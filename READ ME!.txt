@@ -1,0 +1,7 @@
+->Project Overview
+This project is a Gas Pipeline Integrity Checker web application that allows users to input pipeline data, process it, and return integrity check results. Built using Python and Flask, this app runs locally on a web browser and serves as a practical tool for checking gas pipeline conditions.
+->How to Run the Application
+Install Dependencies: Run pip install -r requirements.txt to install Flask and any other required libraries.
+Start the Flask Server: Run the following command:
+python app.py
+Access the Web App: Open a browser and go to http://127.0.0.1:5000/.
